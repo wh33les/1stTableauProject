@@ -1,11 +1,12 @@
 population,candidate_name,end_date,da_by_pop,pop_raverage7
+ Registered voters,Donald Trump,2024-10-30,46.0,47.58571428571428
  Registered voters,Donald Trump,2024-10-29,46.0,47.521428571428565
- Registered voters,Donald Trump,2024-10-28,50.0,47.83888888888889
- Registered voters,Donald Trump,2024-10-27,50.0,47.4787037037037
- Registered voters,Donald Trump,2024-10-26,50.0,46.974444444444444
- Registered voters,Donald Trump,2024-10-25,45.55,46.21805555555555
- Registered voters,Donald Trump,2024-10-24,45.55,46.44074074074074
- Registered voters,Donald Trump,2024-10-23,45.55,46.886111111111106
+ Registered voters,Donald Trump,2024-10-28,50.0,47.775
+ Registered voters,Donald Trump,2024-10-27,50.0,47.33
+ Registered voters,Donald Trump,2024-10-26,50.0,46.662499999999994
+ Registered voters,Donald Trump,2024-10-25,45.55,45.55
+ Registered voters,Donald Trump,2024-10-24,45.55,45.55
+ Registered voters,Donald Trump,2024-10-23,45.55,45.55
  Registered voters,Donald Trump,2024-10-22,48.22222222222222,48.22222222222222
  Registered voters,Donald Trump,2024-10-21,43.75,43.75
  Registered voters,Donald Trump,2024-10-20,47.294117647058826,46.93725490196079
@@ -1301,13 +1302,14 @@ population,candidate_name,end_date,da_by_pop,pop_raverage7
  Registered voters,Donald Trump,2021-04-09,,
  Registered voters,Donald Trump,2021-04-08,,
  Registered voters,Donald Trump,2021-04-07,,
+All adults,Donald Trump,2024-10-30,46.0,45.57857142857142
 All adults,Donald Trump,2024-10-29,46.0,45.15714285714286
-All adults,Donald Trump,2024-10-28,46.0,45.300000000000004
-All adults,Donald Trump,2024-10-27,46.0,45.18333333333334
-All adults,Donald Trump,2024-10-26,46.0,45.019999999999996
-All adults,Donald Trump,2024-10-25,46.0,44.775
-All adults,Donald Trump,2024-10-24,43.05,44.36666666666667
-All adults,Donald Trump,2024-10-23,43.05,45.025
+All adults,Donald Trump,2024-10-28,46.0,45.01666666666667
+All adults,Donald Trump,2024-10-27,46.0,44.82
+All adults,Donald Trump,2024-10-26,46.0,44.525
+All adults,Donald Trump,2024-10-25,46.0,44.03333333333333
+All adults,Donald Trump,2024-10-24,43.05,43.05
+All adults,Donald Trump,2024-10-23,43.05,43.05
 All adults,Donald Trump,2024-10-22,47.0,47.0
 All adults,Donald Trump,2024-10-21,39.0,39.0
 All adults,Donald Trump,2024-10-20,46.0,43.42857142857143
@@ -2603,13 +2605,14 @@ All adults,Donald Trump,2021-04-10,,
 All adults,Donald Trump,2021-04-09,,
 All adults,Donald Trump,2021-04-08,,
 All adults,Donald Trump,2021-04-07,,
-Likely voters,Donald Trump,2024-10-29,49.025,48.192857142857136
-Likely voters,Donald Trump,2024-10-28,48.2,48.11642857142857
-Likely voters,Donald Trump,2024-10-27,48.13333333333333,48.1025
-Likely voters,Donald Trump,2024-10-26,48.13333333333333,48.096333333333334
-Likely voters,Donald Trump,2024-10-25,48.0,48.08708333333333
-Likely voters,Donald Trump,2024-10-24,48.73333333333333,48.11611111111111
-Likely voters,Donald Trump,2024-10-23,47.125,47.807500000000005
+Likely voters,Donald Trump,2024-10-30,47.275,48.214285714285715
+Likely voters,Donald Trump,2024-10-29,49.025,48.19285714285714
+Likely voters,Donald Trump,2024-10-28,48.2,48.05416666666667
+Likely voters,Donald Trump,2024-10-27,48.13333333333333,48.025
+Likely voters,Donald Trump,2024-10-26,48.13333333333333,47.99791666666667
+Likely voters,Donald Trump,2024-10-25,48.0,47.952777777777776
+Likely voters,Donald Trump,2024-10-24,48.73333333333333,47.92916666666666
+Likely voters,Donald Trump,2024-10-23,47.125,47.125
 Likely voters,Donald Trump,2024-10-22,48.49,48.49
 Likely voters,Donald Trump,2024-10-21,46.67,46.67
 Likely voters,Donald Trump,2024-10-20,48.083333333333336,47.80734438660755
@@ -3905,6 +3908,7 @@ Likely voters,Donald Trump,2021-04-10,42.2,42.2
 Likely voters,Donald Trump,2021-04-09,42.2,42.2
 Likely voters,Donald Trump,2021-04-08,42.2,42.2
 Likely voters,Donald Trump,2021-04-07,42.2,42.2
+ Registered voters,Joe Biden,2024-10-30,41.0,41.0
  Registered voters,Joe Biden,2024-10-29,41.0,41.0
  Registered voters,Joe Biden,2024-10-28,41.0,41.0
  Registered voters,Joe Biden,2024-10-27,41.0,41.0
@@ -5207,6 +5211,7 @@ Likely voters,Donald Trump,2021-04-07,42.2,42.2
  Registered voters,Joe Biden,2021-04-09,,
  Registered voters,Joe Biden,2021-04-08,,
  Registered voters,Joe Biden,2021-04-07,,
+All adults,Joe Biden,2024-10-30,35.0,35.0
 All adults,Joe Biden,2024-10-29,35.0,35.0
 All adults,Joe Biden,2024-10-28,35.0,35.0
 All adults,Joe Biden,2024-10-27,35.0,35.0
@@ -6509,6 +6514,7 @@ All adults,Joe Biden,2021-04-10,,
 All adults,Joe Biden,2021-04-09,,
 All adults,Joe Biden,2021-04-08,,
 All adults,Joe Biden,2021-04-07,,
+Likely voters,Joe Biden,2024-10-30,46.0,46.0
 Likely voters,Joe Biden,2024-10-29,46.0,46.0
 Likely voters,Joe Biden,2024-10-28,46.0,46.0
 Likely voters,Joe Biden,2024-10-27,46.0,46.0
@@ -7811,13 +7817,14 @@ Likely voters,Joe Biden,2021-04-10,46.4,46.4
 Likely voters,Joe Biden,2021-04-09,46.4,46.4
 Likely voters,Joe Biden,2021-04-08,46.4,46.4
 Likely voters,Joe Biden,2021-04-07,46.4,46.4
+ Registered voters,Kamala Harris,2024-10-30,47.0,47.857142857142854
  Registered voters,Kamala Harris,2024-10-29,47.0,47.857142857142854
- Registered voters,Kamala Harris,2024-10-28,49.0,47.98412698412699
- Registered voters,Kamala Harris,2024-10-27,49.0,47.81481481481482
- Registered voters,Kamala Harris,2024-10-26,49.0,47.577777777777776
- Registered voters,Kamala Harris,2024-10-25,47.0,47.22222222222222
- Registered voters,Kamala Harris,2024-10-24,47.0,47.2962962962963
- Registered voters,Kamala Harris,2024-10-23,47.0,47.44444444444444
+ Registered voters,Kamala Harris,2024-10-28,49.0,48.0
+ Registered voters,Kamala Harris,2024-10-27,49.0,47.8
+ Registered voters,Kamala Harris,2024-10-26,49.0,47.5
+ Registered voters,Kamala Harris,2024-10-25,47.0,47.0
+ Registered voters,Kamala Harris,2024-10-24,47.0,47.0
+ Registered voters,Kamala Harris,2024-10-23,47.0,47.0
  Registered voters,Kamala Harris,2024-10-22,47.888888888888886,47.888888888888886
  Registered voters,Kamala Harris,2024-10-21,46.25,46.25
  Registered voters,Kamala Harris,2024-10-20,47.8235294117647,48.60812324929972
@@ -9113,13 +9120,14 @@ Likely voters,Joe Biden,2021-04-07,46.4,46.4
  Registered voters,Kamala Harris,2021-04-09,,
  Registered voters,Kamala Harris,2021-04-08,,
  Registered voters,Kamala Harris,2021-04-07,,
+All adults,Kamala Harris,2024-10-30,51.0,50.51428571428571
 All adults,Kamala Harris,2024-10-29,51.0,50.028571428571425
-All adults,Kamala Harris,2024-10-28,51.0,49.6
-All adults,Kamala Harris,2024-10-27,51.0,49.36666666666667
-All adults,Kamala Harris,2024-10-26,51.0,49.04
-All adults,Kamala Harris,2024-10-25,51.0,48.55
-All adults,Kamala Harris,2024-10-24,47.6,47.73333333333333
-All adults,Kamala Harris,2024-10-23,47.6,47.8
+All adults,Kamala Harris,2024-10-28,51.0,49.86666666666667
+All adults,Kamala Harris,2024-10-27,51.0,49.64
+All adults,Kamala Harris,2024-10-26,51.0,49.3
+All adults,Kamala Harris,2024-10-25,51.0,48.73333333333333
+All adults,Kamala Harris,2024-10-24,47.6,47.6
+All adults,Kamala Harris,2024-10-23,47.6,47.6
 All adults,Kamala Harris,2024-10-22,48.0,48.0
 All adults,Kamala Harris,2024-10-21,41.0,41.0
 All adults,Kamala Harris,2024-10-20,48.0,46.0
@@ -10415,13 +10423,14 @@ All adults,Kamala Harris,2021-04-10,,
 All adults,Kamala Harris,2021-04-09,,
 All adults,Kamala Harris,2021-04-08,,
 All adults,Kamala Harris,2021-04-07,,
-Likely voters,Kamala Harris,2024-10-29,47.815,48.024761904761895
-Likely voters,Kamala Harris,2024-10-28,47.1,48.068333333333335
-Likely voters,Kamala Harris,2024-10-27,47.46666666666667,48.22972222222222
-Likely voters,Kamala Harris,2024-10-26,46.63333333333333,48.382333333333335
-Likely voters,Kamala Harris,2024-10-25,49.66666666666666,48.81958333333333
-Likely voters,Kamala Harris,2024-10-24,49.46666666666667,48.537222222222226
-Likely voters,Kamala Harris,2024-10-23,48.025,48.0725
+Likely voters,Kamala Harris,2024-10-30,48.175,48.046190476190475
+Likely voters,Kamala Harris,2024-10-29,47.815,48.02476190476191
+Likely voters,Kamala Harris,2024-10-28,47.1,48.05972222222223
+Likely voters,Kamala Harris,2024-10-27,47.46666666666667,48.251666666666665
+Likely voters,Kamala Harris,2024-10-26,46.63333333333333,48.447916666666664
+Likely voters,Kamala Harris,2024-10-25,49.66666666666666,49.05277777777778
+Likely voters,Kamala Harris,2024-10-24,49.46666666666667,48.74583333333334
+Likely voters,Kamala Harris,2024-10-23,48.025,48.025
 Likely voters,Kamala Harris,2024-10-22,48.12,48.12
 Likely voters,Kamala Harris,2024-10-21,47.73,47.73
 Likely voters,Kamala Harris,2024-10-20,48.02916666666667,47.87897625473942
